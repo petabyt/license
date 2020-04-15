@@ -9,3 +9,7 @@ No warranty.
 That’s right, if your workstation blows up during installation, that’s on you. 
 If you break your collarbone trying to use the UI, that's all your fault. 
 I am not responsible for your nuclear detonations or any limbs lost.
+
+
+This applies for all the code I have written that I 
+was too lazy to specify a license for.
