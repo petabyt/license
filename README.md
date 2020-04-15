@@ -11,6 +11,7 @@ If you break your collarbone trying to use the UI, that's all your fault.
 I am not responsible for your nuclear detonations or any limbs lost.
 
 This applies for all the code I have written that I 
-was too lazy to specify a license for.
+was too lazy to specify a license for. Of course this is not a license, but
+more of a legal note. The real license I'm using is GNU General Public License v2.0.
 #
 Oh, and the danielicense is licensed under the danielicense.
