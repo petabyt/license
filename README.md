@@ -17,5 +17,6 @@ This applies for all the code I have written that I
 was too lazy to specify a license for.  
 
 > Of course this is not a license, but  
-more of a legal note. The real license I'm using for  
-everything is the **GNU General Public License v2.0.**  
+more of a legal note. **The real license I'm using for  
+anything that does not already 
+have a license is the GNU General Public License v2.0.**  
