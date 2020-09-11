@@ -11,7 +11,7 @@ That’s right, if your workstation blows up during installation, that’s on yo
 If you break your collarbone trying to use the UI, that's all your fault.  
 
 If you flip your desk on yourself because the name of my variable offends you,  
-that is friggin weird, and you need to see a doctor.
+that's friggin weird, and you need to see a doctor.
 
 **I am not responsible for your nuclear detonations or emotional breakdowns.**
 
