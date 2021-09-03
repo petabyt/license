@@ -1,3 +1,5 @@
 # My License
-Pufflegamerz/Petabyte/Brikbusters 2015-
-Applies to all projects I have not chosen a license for.
+After getting shamed for forgetting to pick a license for  
+several of my repositories, I decided to write my own license  
+that applies for every repository I've written that does not  
+already have a license. (2015+)  
